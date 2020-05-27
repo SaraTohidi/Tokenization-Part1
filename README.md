@@ -1,2 +1,2 @@
 # Tokenization-Part1
-Converting Documents in Tokenize list
+Tokenizing a given documents web-page and store it in a dictionary.
